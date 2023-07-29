@@ -1,0 +1,9 @@
+@ARTICLE{10149184,
+  author={Zhao, Fei and Wu, Zhen and He, Liang and Dai, Xin-Yu},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={Label-Correction Capsule Network for Hierarchical Text Classification}, 
+  year={2023},
+  volume={31},
+  number={},
+  pages={2158-2168},
+  doi={10.1109/TASLP.2023.3282099}}
